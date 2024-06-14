@@ -1,2 +1,4 @@
 # ANLP-Labs
-Repo that contains all my lab work of this semester in Applied Natural Language Processing
+
+This repository contains all the lab work done in the "Advanced Natural Language Processing" course for BUiD. 
+
